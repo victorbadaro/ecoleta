@@ -57,8 +57,8 @@ importers:
         specifier: 3.0.0
         version: 3.0.0(encoding@0.1.13)
       node-fetch:
-        specifier: 3.1.1
-        version: 3.1.1
+        specifier: 3.2.10
+        version: 3.2.10
       react:
         specifier: ~16.9.0
         version: 16.9.0
@@ -2803,8 +2803,8 @@ packages:
       encoding:
         optional: true
 
-  node-fetch@3.1.1:
-    resolution: {integrity: sha512-SMk+vKgU77PYotRdWzqZGTZeuFKlsJ0hu4KPviQKkfY+N3vn2MIzr0rvpnYpR8MtB3IEuhlEcuOLbGvLRlA+yg==}
+  node-fetch@3.2.10:
+    resolution: {integrity: sha512-MhuzNwdURnZ1Cp4XTazr69K0BTizsBroX7Zx3UgDSVcZYKF/6p0CBe4EUb/hLqmzVhl0UpYfgRljQ4yxE+iCxA==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
 
   node-int64@0.4.0:
@@ -7905,7 +7905,7 @@ snapshots:
     optionalDependencies:
       encoding: 0.1.13
 
-  node-fetch@3.1.1:
+  node-fetch@3.2.10:
     dependencies:
       data-uri-to-buffer: 4.0.1
       fetch-blob: 3.2.0
